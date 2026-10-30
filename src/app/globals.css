@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter);
+  --font-script: var(--font-pacifico);
+}
+
+html {
+  scroll-padding-top: 5rem; /* sections stop below the navbar */
+}
+
+body {
+  min-height: 100vh;
+  background-color: #d9f8e6;
+  background-image: linear-gradient(to bottom, #dde9fb, #d9f8e6);
+  background-repeat: no-repeat;
+}
