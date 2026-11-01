@@ -6,7 +6,7 @@ export const LINKEDIN_URL =
 export const CV_EN_URL: string | null = "/cv-en.pdf";
 export const CV_FR_URL: string | null = "/cv-fr.pdf";
 
-export const PITCH_VIDEO_URL: string | null = "/pitch-video.mov";
+export const PITCH_VIDEO_URL: string | null = "/pitch-video.mp4";
 
 export const EMAIL = "hnidamouad70@example.com";
 export const PHONE = "+33 7 80 88 99 04";
